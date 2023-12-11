@@ -7,6 +7,7 @@ Actively interested in:
 -  🤖 Machine learning
 -  📚 Natural Language Processing (NLP)
 -  🛠️ Data engineering
+-  👨‍💻 Software Development.
 
 📫 Feel free to connect with me: 
 - 📧 E-mail: mahammad.nabizade@gmail.com
