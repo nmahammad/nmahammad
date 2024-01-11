@@ -1,6 +1,6 @@
 🌟 Bienvenue! 🌟
 
-🎓 Doing my master's journey at ISEP in Paris.
+🎓 Doing my master's at ISEP in Paris.
 
 Actively interested in: 
 -  🧮 Applied mathematics
