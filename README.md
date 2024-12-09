@@ -1,11 +1,11 @@
 🌟 Bienvenue! 🌟
 
-🎓 Doing my master's at ISEP in Paris.
+🎓 Doing my PhD at Université de Franche-Comté.
 
 Actively interested in: 
 -  🧮 Applied mathematics
 -  🤖 Machine learning
--  📚 Natural Language Processing (NLP)
+-  📚 Computer Vision
 -  🛠️ Data engineering
 -  👨‍💻 Software Development.
 
